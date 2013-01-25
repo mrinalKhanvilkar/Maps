@@ -34,7 +34,7 @@ are creating a new location and after entering the TAG information you directly 
 References:
 -----------
 
-https://developers.google.com/maps/documentation/android/
-http://www.vogella.com/articles/AndroidCamera/article.html#example
-https://github.com/commonsguy/cw-advandroid/tree/master/Maps
+1) https://developers.google.com/maps/documentation/android/
+2) http://www.vogella.com/articles/AndroidCamera/article.html#example
+3) https://github.com/commonsguy/cw-advandroid/tree/master/Maps
 
