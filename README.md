@@ -35,6 +35,8 @@ References:
 -----------
 
 https://developers.google.com/maps/documentation/android/
+
 http://www.vogella.com/articles/AndroidCamera/article.html#example
+
 https://github.com/commonsguy/cw-advandroid/tree/master/Maps
 
